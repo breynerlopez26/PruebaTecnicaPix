@@ -34,7 +34,7 @@ Breve descripción de pasos solicitados:
 
 ### Configuración y ejecución de robot
 ---
-1. Clonar desde GitHub https://github.com/breynerlopez26/PruebatecnicaPix o descargar en carpeta local.
+1. Clonar desde GitHub [https://github.com/breynerlopez26/PruebatecnicaPix](https://github.com/breynerlopez26/PruebaTecnicaPix) o descargar en carpeta local.
 
 2. El archivo *Data/Config.xlsx* contiene las configuraciones básicas necesarias para el correcto funcionamiento:
 ![alt text](image.png)
