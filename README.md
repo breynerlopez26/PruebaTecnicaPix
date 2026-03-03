@@ -1,5 +1,5 @@
 # PIX-PruebaTecnica
-Prueba técnica para puesto de Analista RPA con PIX Robotics
+Prueba técnica para puesto de Desarrollador RPA con PIX Robotics
 
 - Automatización creada con PIX Studio
 ### Requesitos funcionaes del proceso
